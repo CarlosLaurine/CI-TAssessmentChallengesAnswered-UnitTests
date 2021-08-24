@@ -1,0 +1,4 @@
+If the minimum time in minutes is fractioned (float), it must be rounded up (Math.ceil()) in order to obtain the MINIMUM 
+time in INTEGER minutes (Integer)
+
+MINIMUM time in minutes = ((p * s) / n ) / 60

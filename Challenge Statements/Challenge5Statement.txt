@@ -1,0 +1,13 @@
+6 friends (Ana, Bia, Cadu, Duda, Edu and Fabi) have a rock band, live near the city center.
+The map is the one below, showing where each one lives.
+
+They always take turns rehearsing each day at a member's house and often play in a pub at Place P.
+
+Create a function that calculates the sum of the amount of kilometers traveled in total by the participants,
+allowing you to be informed of the number of rounds of rehearsals and shows that the band did.
+
+Assume the distance from the sides of the blocks is 250m and disregard the width of the streets.
+
+Image Link:
+
+https://res.cloudinary.com/strive/image/upload/w_1000,h_1000,c_limit/41b2824d8179f778cd33004c050a954b-image.png

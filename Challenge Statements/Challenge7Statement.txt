@@ -1,0 +1,13 @@
+A rock festival consists of a single stage, and the concert area (which is a circle) is divided into 8 sectors of equal areas.
+The total area of the show has approximately Larger Area m2, and the central part (Wing VIP) has Smaller Area m2.
+
+You'll need to search the popular wing in sector 3 to find the drumstick that drummer from The XPTOs
+he played for the audience, but it was his favorite drumstick and he ended up playing it by mistake, but first, you need to know which one
+search area size!
+
+You can help staff by making a function that calculates the search area according to the informed size of the area of the
+show and the size of the VIP area?
+
+Image Link:
+
+https://res.cloudinary.com/strive/image/upload/w_1000,h_1000,c_limit/d4ea63bb1e2554a206d9e2c62aded6c2-image.png

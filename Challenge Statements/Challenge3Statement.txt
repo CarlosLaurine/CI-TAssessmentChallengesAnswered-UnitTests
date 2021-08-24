@@ -1,0 +1,14 @@
+A survey of people who would participate in a show with multiple stages identified that:
+
+45% like to see the shows on stage A.
+33% like to see the shows on stage B.
+34% like to see the shows on stage C.
+20% like to see shows on stage A and B.
+18% like to see shows on stage A and C.
+10% like to see shows on stages B and C.
+3% like all three places to see shows.
+
+Help the organization of the show to understand what percentage of people do not like any of these stages and
+who only like a single stage!
+If tickets were sold to 10,000 people, how many would like one-stage concerts?
+And if it was for 17,000 people, how many people would like to see concerts from just one stage?

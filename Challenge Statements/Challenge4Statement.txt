@@ -1,0 +1,7 @@
+The XPTOs band will record their first album! They went to several friends' studios and realized that by
+touch, there was an echo in some of them. Some studios they visited had 8, 16, 18, 24, 36 meters between
+amplifiers and the opposite walls
+
+Knowing that people can perceive the echo in a time greater than or equal to 0.1s. Create a function that can determine
+if there is echo in a studio according to the distance between the amplifiers and the opposite wall, considering the speed
+of sound like 340m/s?

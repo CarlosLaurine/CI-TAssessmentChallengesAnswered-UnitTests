@@ -1,0 +1,43 @@
+Window 1 -> 1 element
+Window 2 -> 3 elements
+Window 3 -> 5 elements
+Window 4 -> 7 elements
+Window 5 -> 9 elements
+
+          .
+          .
+          .
+
+At each window line, two more people are supported in relation to the previous window
+
+elements of any window = elements of the initial window + 2 * (any window number -1)
+
+elements of any window = n
+
+initial window elements = 1
+
+any window number = a
+
+n = 1 + 2 * (a-1)
+
+a = ((n-1)/2)+1
+
+a = ((n+1)/2)
+
+Sum of Total elements up to any window = (a * (n+1)) / 2
+
+Sum of Total elements up to any window = Sn
+
+Sn = a * ((n+1)/2)
+
+a = ((n+1)/2)
+
+Yn = a * a
+
+Sn = a^2
+
+Sum of Total elements up to any window = any window number TO SQUARE
+
+If (Sn for a given Window >= ticketNumber), then this window (a) = Window where person number X bought the ticket
+
+Rounding the root of any ticket to the next integer, the ticket number in which it is contained is obtained.

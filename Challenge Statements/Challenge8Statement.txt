@@ -1,0 +1,13 @@
+A rock festival in a city with methodical people, had the following disposition of people at the ticket booths:
+
+Window 1 -> 1
+Window 2 -> 2 3 4
+Window 3 -> 5 6 7 8 9
+Window 4 -> 10 11 12 13 14 15 16
+Window 5 -> 17 18 19 20 21 22 23 24 25
+
+Window N -> (...) X (...)
+
+Note that the number 1 was written in the first line and in the following lines there are two more numbers than in the previous line.
+
+It is necessary to identify the counter (N) where person number X purchased the ticket. develop a function that generates this value.

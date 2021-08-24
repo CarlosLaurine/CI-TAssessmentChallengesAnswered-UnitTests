@@ -1,0 +1,6 @@
+An organized show, with people checking tickets, and security guards watching the participants, was held with the audience of
+p people (suppose it could be, for example, 2749). For people to enter, the average time between delivering the ticket and
+  being able to access the show area takes s seconds (suppose, for example, 50).
+
+To expedite entry, event production provided n entry gates (assume 8). What is the minimum time, in minutes,
+for all participants to fully enter the concert area?

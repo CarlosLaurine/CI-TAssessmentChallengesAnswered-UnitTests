@@ -1,0 +1,44 @@
+lq = number of block sides
+
+X -> Y = Distance between the Houses of member X to Y
+
+A = Ana / B = Bia / C = Cadu / E = Edu / F = Fabi / D = Duda
+
+A -> B = 2 lq B -> A = 2 lq C -> A = 2 lq
+A -> C = 2 lq B -> C = 2 lq C -> B = 2 lq
+A -> D = 4 lq B -> D = 4 lq C -> D = 2 lq
+A -> E = 2 lq B -> E = 2 lq C -> E = 2 lq
+A -> F = 1 lq B -> F = 3 lq C -> F = 3 lq
+
+D -> A = 4 lq E -> A = 2 lq F -> A = 1 lq
+D -> B = 4 lq E -> B = 2 lq F -> B = 3 lq
+D -> C = 2 lq E -> C = 2 lq F -> C = 3 lq
+D -> E = 2 lq E -> D = 2 lq F -> D = 3 lq
+D -> F = 3 lq E -> F = 1 lq F -> E = 1 lq
+
+P = Show Point
+
+A -> P = 3 lq B -> P = 5 lq C -> P = 5 lq
+D -> P = 3 lq E -> P = 3 lq F -> P = 2 lq
+
+1 round of rehearsals = 1 rehearsal in each square = sum of the distances of each to each possible square except his own * 2 (member goes and returns home)
+
+Sd = Sum of the distances of each to each square except its own = 70 lq
+
+Rd = Distance traveled due to the test round = Sd * 2 = 140 lq
+
+X * Rd = X * 140 lq
+
+1 show = Sum of the distances from each one's house to the point * 2 (member goes and returns)
+
+SdP = Sum of the distances of each one to the Pub
+
+P = Distance traveled due to shows = SdP * 2 lq
+
+P = 42 lq (Fixed)
+
+X * P = X *42 lq
+
+Total distance = (X * 140 lq) + (Y * 42 lq)
+
+Where X is the number of Test Rounds and Y is the number of Shows

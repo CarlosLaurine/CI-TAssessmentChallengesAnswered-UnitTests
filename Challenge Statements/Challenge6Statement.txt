@@ -1,0 +1,28 @@
+Music is made up of sounds, which are sound waves that vibrate at a frequency.
+The main musical notes are C, D, Mi, F, G, A, Si, represented by (C, D, E, F, G, A, B) in this order.
+
+The musical scale with these seven main notes and is subdivided into 12 notes with the distance between two notes
+consecutive equal to 1/2 tone or 1 semitone, because between E and F and B and C, there is no sharp/flat (#, b).
+In this way, the semitone scale can be represented in the following ways:
+
+Growing
+[C, C#, D, D#, E, F, F#, G, G#, A, A#, B]
+
+descending
+[C, Db, D, Eb, E, F, Gb, G, Ab, A, Bb, B]
+
+Image Link:
+
+https://res.cloudinary.com/strive/image/upload/w_1000,h_1000,c_limit/69f97f40ce61203999d06f573bcfbb61-image.png
+
+The center A (A) has a frequency of 440 Hz (or 440 cycles per second).
+
+To advance half a step (to A#) from A (440) you must do the 440*2^(1/12) operation. to go to B
+(that is, advance two halftones), you must, from A (440), do 440*2^(2/12).
+
+Build a function that returns the frequency of any note given that positive values ​​are above A (440)
+and negative values ​​are below A (440), and say the name of the note (considering the pitch and semitone scale above,
+increasing or decreasing according to your reference to A (440)).
+
+The format of the answer must be an array of two-position strings, with the first being the frequency with 4 decimal places.
+whenever the value is not an integer and the second which note this frequency represents, for example: ['440', 'A'] or ["466.1638", "A#"]

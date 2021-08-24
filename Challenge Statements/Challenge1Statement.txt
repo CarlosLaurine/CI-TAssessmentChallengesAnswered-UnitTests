@@ -1,0 +1,5 @@
+A band will perform in an arena where, from the stage to the last person watching the show, there is a distance of
+(d can have different values: 0.35 km, 0.6 km, 1.02 km).
+
+Knowing that the speed of sound is 340 m/s, create a function that returns in approximately how long, in milliseconds,
+does the sound come out of the speaker until the last person hears it?

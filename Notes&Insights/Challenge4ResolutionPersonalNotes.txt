@@ -1,0 +1,23 @@
+time (sound perception echo(s)) = time(sound) * 2 (sound beats and returns)
+ 
+time(sound) = (time (sound perception(s))) / (2)
+
+d (amplifier and opposite walls (m)) = v (sound (m/s)) * time(sound)
+ 
+  if (time >= 0.05){
+ 
+           ecoExists = true;
+ 
+  }
+ 
+   if (d >= 340 * 0.05 ){
+ 
+           ecoExists = true;
+ 
+  }
+ 
+    if (d >= 17){
+ 
+           ecoExists = true;
+ 
+  }

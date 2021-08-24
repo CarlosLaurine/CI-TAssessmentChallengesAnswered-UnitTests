@@ -1,0 +1,21 @@
+class Challenge {
+
+     public static StringSeek SectorSize(Integer areaLargest,Integer areaSmaller) {
+      
+       Double areaLargerDouble = Double.valueOf(areaLarger);
+      
+       Double areaMinorDouble = Double.valueOf(areaMinor);
+      
+       Double areaPopularSector3 = (areaMaiorDouble - areaMenorDouble) / 8;
+      
+       if( (Math.ceil(areaPopularSector3) - areaPopularSector3) != 0) {
+        
+         return String.valueOf(areaPopularSector3);
+        
+       }
+          else{
+            return String.valueOf(areaPopularSector3.intValue());
+          }
+      
+     }
+}

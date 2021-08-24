@@ -1,0 +1,23 @@
+45% like to see the shows on stage A.
+33% like to see the shows on stage B.
+34% like to see the shows on stage C.
+20% like to see shows on stage A and B.
+18% like to see shows on stage A and C.
+10% like to see shows on stages B and C.
+3% like all three places to see shows.
+
+(A) = (UA) - (A&B) - (A&C) + (A&B&C)
+
+(B) = (UB) - (B&A) - (B&C) + (A&B&C)
+
+(C) = (UC) - (C&B) - (C&A) + (A&B&C)
+
+10% like to see the shows ONLY on stage A.
+
+6% like to see the shows ONLY on stage B.
+
+9% like to see the shows ONLY on stage C.
+
+25% like to see shows on ONE stage ONLY.
+
+30% DON'T like to see shows on ANY stage.

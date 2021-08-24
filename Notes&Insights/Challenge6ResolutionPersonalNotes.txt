@@ -1,0 +1,20 @@
+f (A) = 440 Hz
+
+Ascending Sequence Vector = { "C", "C#", "D", "D#", "E", "F", "F#", "G", "G#", "A", "A#", "B" };
+Descending Sequence Vector = { "C", "Db", "D", "Eb", "E", "F", "Gb", "G", "Ab", "A", "Bb", "B" };
+
+1 semitone 1/2 tone (From Reference A) = 440*2^(1/12)
+
+n semitones (n/2) tone (From Reference A) = 440*2^(n/12)
+
+if (semitone >= 0){
+
+        sequence = increasing;
+
+}
+
+else{
+
+       sequence = descending;
+
+}
